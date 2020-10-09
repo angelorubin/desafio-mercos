@@ -1,0 +1,14 @@
+/**
+ ** color palette
+ **/
+
+:root {
+  --black-dark: #212121;
+  --black-medium: #424242;
+  --gray-dark: #616161;
+  --gray-medium: #9e9e9e;
+  --gray-light: #bdbdbd;
+  --gray-very-light: #e0e0e0;
+  --white: #ffffff;
+  --red-medium: #e53935;
+}
